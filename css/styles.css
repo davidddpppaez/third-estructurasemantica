@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-size: 24px;
+}
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(49, 162, 162);
+}
+
+.green {
+    background-color: green;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.brown {
+    background-color: brown;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.firstheight {
+    height: 100px;
+}
+
+.thirdheight {
+    height: 300px;
+}
+
+button {
+    display: flex;
+    height: 100%;
+    width: 100%;
+} 
